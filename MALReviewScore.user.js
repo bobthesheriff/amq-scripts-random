@@ -5,6 +5,7 @@
 // @description  Puts the score of the review next to the "recommended"/"mixed"/"not recommended" tag
 // @author       BobTheSheriff
 // @match        https://myanimelist.net/anime/*
+// @match        https://myanimelist.net/manga/*
 // @downloadURL  https://github.com/bobthesheriff/amq-scripts-random/raw/main/MALReviewScore.user.js
 // @updateURL    https://github.com/bobthesheriff/amq-scripts-random/raw/main/MALReviewScore.user.js
 // @grant        none
