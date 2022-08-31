@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MAL Review Score Unhider
 // @namespace    http://tampermonkey.net/
-// @version      1.00
+// @version      1.01
 // @description  Puts the score of the review next to the "recommended"/"mixed"/"not recommended" tag
 // @author       BobTheSheriff
 // @match        https://myanimelist.net/anime/*
