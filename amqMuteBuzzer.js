@@ -5,8 +5,8 @@
 // @description  Posts the time when the player mutes their audio per round, acting as a buzzer
 // @author       BobTheSheriff
 // @match        https://animemusicquiz.com/*
-// @downloadURL  https://github.com/bobthesheriff/amq-scripts-random/raw/master/amqMuteBuzzer.js
-// @updateURL    https://github.com/bobthesheriff/amq-scripts-random/raw/master/amqMuteBuzzer.js
+// @downloadURL  https://github.com/bobthesheriff/amq-scripts-random/raw/main/amqMuteBuzzer.js
+// @updateURL    https://github.com/bobthesheriff/amq-scripts-random/raw/main/amqMuteBuzzer.js
 // @grant        none
 // @copyright    MIT license
 // ==/UserScript==
